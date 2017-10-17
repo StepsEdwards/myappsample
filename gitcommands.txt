@@ -1,0 +1,6 @@
+git init
+git config --global user.name '<username>'
+git config --global user.email '<email>'
+git add <*.filetype> <.>
+git status
+git rm --cached

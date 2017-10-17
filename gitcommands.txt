@@ -4,3 +4,4 @@ git config --global user.email '<email>'
 git add <*.filetype> <.>
 git status
 git rm --cached
+git commit -m '<commit message>'

@@ -5,3 +5,6 @@ git add <*.filetype> <.>
 git status
 git rm --cached
 git commit -m '<commit message>'
+git branch <branch name>
+git checkout <branch name>
+git merge <branch name>

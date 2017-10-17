@@ -8,3 +8,8 @@ git commit -m '<commit message>'
 git branch <branch name>
 git checkout <branch name>
 git merge <branch name>
+git remote
+git remote add origin <repo url>
+git push -u origin <branch name(usually master)>
+git push
+git pull
